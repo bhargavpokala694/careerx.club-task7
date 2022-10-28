@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>create a table</title>
+    </head>
+    <style>
+        body{
+            color: blue;
+            background-color: brown;
+        }
+    </style>
+    <body>
+        <h1>PERSONAL  DETAILS</h1>
+        <form>
+            <label for="first name">FIRST NAME</label>
+            <input type="text" name="FIRST NAME">
+            <label for="last name">LAST NAME</label>
+            <input type="text" name="LAST NAME"><br><br>
+            <label for="s/o">S/O</label>
+            <input type="text" name="S/O"><br><br>
+            <label for="d-o-b">D O B</label>
+            <input type="date" type="month" type="year" name="d o b"><br><br>
+            <label for="phno">PHNO</label>
+            <input type="text" name="PHNO"><br><br>
+            <label for="email">EMAIL</label>
+            <input type="email" name="email"><br><br>
+            <label for="blood group">BLOOD GROUP</label><br><br>
+            <label for="O-">O-</label>
+            <input type="button" name="O-"><br><br>
+            <label for="O+">O+</label>
+            <input type="button" name="O+"><br><br>
+            <label for="b-">B-</label>
+            <input type="button" name="B-"><br><br>
+            <label for="b+">B+</label>
+            <input type="button" name="B+"><br><br>
+            <label for="a-">A-</label>
+            <input type="button" name="A-"><br><br>
+            <label for="a+">A+</label>
+            <input type="button" name="A+"><br><br>
+            <label for="adess">ADDRESS</label>
+            <input type="text" name="ADDRESS"><br><br>
+            <label for="sumbit">SUBMIT</label>
+            <input type="submit" name="SUBMIT">
+        
+            
+
+        </form>
+    
+    </body>
+</html>
